@@ -7,8 +7,8 @@ In recent years, the credit card issuers in Taiwan faced the cash and credit car
 Dataset
 We used the [Credit Card Default payment in Taiwan] (https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients) to predict whether the credit card holders are defaulters or Non-defaulters. The Dataset and its attributes are described below
 
-ID: ID of each client
-LIMIT_BAL: Amount of given credit in NT dollars (includes individual and family/supplementary credit
+1.ID: ID of each client
+2. LIMIT_BAL: Amount of given credit in NT dollars (includes individual and family/supplementary credit
 SEX: Gender (1=male, 2=female)
 EDUCATION: (1=graduate school, 2=university, 3=high school, 4=others, 5=unknown, 6=unknown)
 MARRIAGE: Marital status (1=married, 2=single, 3=others)
